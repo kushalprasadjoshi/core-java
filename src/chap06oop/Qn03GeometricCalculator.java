@@ -33,7 +33,7 @@ class MyTriangle implements MyShape {
     }
 }
 
-public class GeometricCalculator {
+public class Qn03GeometricCalculator {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("1) Circle  2) Rectangle  3) Triangle\nChoose shape: ");

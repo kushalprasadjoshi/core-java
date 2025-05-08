@@ -16,6 +16,13 @@ Whether you’re starting out or advancing your Java journey, everything you nee
 
 ---
 
+## 🧩 What’s Inside
+
+1. **Core Java Handbook:** PDF and DOCX versions of the handbook are stored in the `resources` folder.
+2. **Chapter Example Packages:** Each unit’s package contains the source-code examples referenced in the handbook.
+
+---
+
 ## ⚡ Quick Start
 
 1. **Clone the repo**
@@ -33,6 +40,14 @@ Whether you’re starting out or advancing your Java journey, everything you nee
    ```
 
 > Tip: Import the repository into your IDE (IntelliJ, Eclipse, VS Code) as a project to streamline coding and exploration.
+
+---
+
+## ❤️ Stay Connected
+
+⭐️ Star the repo if you find it helpful.
+
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/kushalprasadjoshi/).
 
 ---
 
